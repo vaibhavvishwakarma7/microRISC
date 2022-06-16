@@ -1,2 +1,0 @@
-# microRISC
-RISCV arduo
